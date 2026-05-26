@@ -99,8 +99,8 @@ Compares average screen time among:
 ✔ Screen usage varies across age, gender, and region.
 
 ---
-
-## 📬 Author
-
-**Rakshanda Phatak**
+# Author & Contact 
+Rakshanda Rajesh Phatak                                                                                                                                                                                                                                                     
+Email: rakshanda5193@gmail.com                                                                                                                                                                                                                                                          
+Linkedin:https://www.linkedin.com/in/rakshanda-phatak/
 
