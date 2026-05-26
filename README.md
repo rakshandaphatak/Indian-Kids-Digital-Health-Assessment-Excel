@@ -100,7 +100,8 @@ Compares average screen time among:
 
 ---
 # Author & Contact 
-Rakshanda Rajesh Phatak                                                                                                                                                                                                                                                     
+Rakshanda Rajesh Phatak
+                                                                                                                                                                                                                                                 
 Email: rakshanda5193@gmail.com                                                                                                                                                                                                                                                          
 Linkedin:https://www.linkedin.com/in/rakshanda-phatak/
 
